@@ -1,9 +1,9 @@
 {
-  "name": "atom-light-ui",
+  "name": "atom-idea-ui",
   "theme": "ui",
-  "version": "0.43.0",
-  "description": "A light UI theme for Atom",
-  "repository": "https://github.com/atom/atom-light-ui.git",
+  "version": "0.0.0",
+  "description": "An Atom UI theme based on the IntelliJ IDEA default theme",
+  "repository": "https://github.com/chris-martin/atom-idea-ui.git",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
